@@ -1,0 +1,7 @@
+Explicación:
+git reset --hard elimina todos los cambios, tanto staged como unstaged.
+
+Contenido actual:
+HEAD está ahora en 783e3ab Paso 3 y 4 corregidos
+
+Es peligroso porque borra cambios definitivamente.

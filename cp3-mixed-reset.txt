@@ -1,0 +1,18 @@
+Estado tras reset mixed:
+En la rama main
+Tu rama y 'origin/main' han divergido,
+y tienen 2 y 1 commits diferentes cada una respectivamente.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Cambios no rastreados para el commit:
+  (usa "git add <archivo>..." para actualizar lo que será confirmado)
+  (usa "git restore <archivo>..." para descartar los cambios en el directorio de trabajo)
+	modificados:     progreso.txt
+
+Explicación:
+El reset mixed elimina commits del historial y quita los cambios del staging,
+pero mantiene los archivos modificados.
+
+Diferencia:
+- soft: deja cambios en staging
+- mixed: deja cambios sin staging

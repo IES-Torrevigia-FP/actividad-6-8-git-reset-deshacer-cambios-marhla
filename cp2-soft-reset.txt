@@ -1,0 +1,20 @@
+Estado tras reset soft:
+En la rama main
+Tu rama y 'origin/main' han divergido,
+y tienen 3 y 1 commits diferentes cada una respectivamente.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Cambios a ser confirmados:
+  (usa "git restore --staged <archivo>..." para sacar del área de stage)
+	modificados:     progreso.txt
+
+Historial nuevo:
+24be59c (HEAD -> main) Paso 4: registro de usuarios mejorado
+e01f45d fix cosas
+38758d0 Paso 2: módulo de login
+b21f71c Paso 1: estructura inicial
+19e22b3 Initial commit
+
+Explicación:
+git reset --soft mueve el HEAD pero mantiene los cambios en staging.
+No se pierden los cambios, solo se deshace el commit.

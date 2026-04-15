@@ -1,0 +1,6 @@
+Historial inicial:
+8d70649 (HEAD -> main) Paso 4: registro de usuarios
+e01f45d fix cosas
+38758d0 Paso 2: módulo de login
+b21f71c Paso 1: estructura inicial
+19e22b3 Initial commit
